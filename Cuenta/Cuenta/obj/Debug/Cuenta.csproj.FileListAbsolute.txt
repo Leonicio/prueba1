@@ -1,0 +1,9 @@
+c:\users\leoni\onedrive\documentos\visual studio 2015\Projects\Cuenta\Cuenta\bin\Debug\Cuenta.exe.config
+c:\users\leoni\onedrive\documentos\visual studio 2015\Projects\Cuenta\Cuenta\obj\Debug\Cuenta.csprojResolveAssemblyReference.cache
+c:\users\leoni\onedrive\documentos\visual studio 2015\Projects\Cuenta\Cuenta\obj\Debug\Cuenta.Form1.resources
+c:\users\leoni\onedrive\documentos\visual studio 2015\Projects\Cuenta\Cuenta\obj\Debug\Cuenta.Properties.Resources.resources
+c:\users\leoni\onedrive\documentos\visual studio 2015\Projects\Cuenta\Cuenta\obj\Debug\Cuenta.csproj.GenerateResource.Cache
+c:\users\leoni\onedrive\documentos\visual studio 2015\Projects\Cuenta\Cuenta\bin\Debug\Cuenta.exe
+c:\users\leoni\onedrive\documentos\visual studio 2015\Projects\Cuenta\Cuenta\bin\Debug\Cuenta.pdb
+c:\users\leoni\onedrive\documentos\visual studio 2015\Projects\Cuenta\Cuenta\obj\Debug\Cuenta.exe
+c:\users\leoni\onedrive\documentos\visual studio 2015\Projects\Cuenta\Cuenta\obj\Debug\Cuenta.pdb
